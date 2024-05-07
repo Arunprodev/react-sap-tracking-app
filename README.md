@@ -1,4 +1,4 @@
-# Simple SAP App
+# Simple SPA App
 
 ## Project Description:
 
